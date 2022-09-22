@@ -1,1 +1,1 @@
-print(*city of angles*)
+print("city of angles")
